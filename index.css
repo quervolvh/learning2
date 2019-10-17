@@ -1,0 +1,599 @@
+@media only screen and (max-width:700px){
+    #Bar{
+        margin-top: 10% !important;
+    }
+    #icon{
+        height: 38px !important;
+        width: 194px !important;
+    }
+    #menu{
+        display: none;
+    }
+    #Bell{
+        display: block !important;
+        margin-top: 80px !important;
+    }
+    #image_right{
+        height: 294px !important;
+        width: 100% !important;
+        margin-left:0px !important;
+    }
+    #blue_cloth{
+        display: none;
+    }
+    #blue_cloth_mobile{
+        position: absolute;
+        height: 225px;
+        margin-top: 14%;
+        background: blue;
+        width: 78%;
+        right: 0;
+        z-index: -4;
+        border-bottom-left-radius: 123px;
+    }
+    #talk{
+        width: 100% !important;
+        padding-left: 0px !important;
+        margin-bottom: 80px;
+    }
+    #head1, #head0{
+        text-align: center;
+        font-size: 22px !important;
+    }
+    #head2{
+        text-align: center;
+        width: 97% !important;
+        margin: 0px auto;
+        font-size: 16px !important;
+        line-height: 1.8em !important;
+    }
+    #blue_mob, #grey_mob{
+        width: 47%;
+        height: 54px;
+        font-size: 13px;
+        border: 0;
+        color: white;
+        background: #5368df;
+        border-radius: 4px;
+    }
+    #grey_mob{
+        background: #f2f4f4;
+        color: black;
+        box-shadow: 1px 2px #d2c8c8;
+    }
+    #blue_mob{
+        margin-right: 3px;
+    }
+    #buttons{
+        display: none;
+    }
+    #mobile_buttons{
+        width: 75%;
+        margin: 0px auto;
+        margin-top: 20px;
+        display: block !important;
+    }
+    #blue, #red, #grey{
+        padding: 4.5% !important;
+        padding-right: 10% !important;
+        padding-left: 10% !important;
+        font-size: 15px;
+    }
+    #buttons{
+        width: 80%;
+        margin: 0px auto;
+        margin-top: 30px;
+    }
+    #features{
+        width: 100% !important;
+    }
+    #types{
+        display: block !important;
+        width: 100% !important;
+    }
+    .flexi{
+        margin-top: 25px !important;
+        margin-bottom: 25px;
+        padding-bottom: 10px;
+        width: 93% !important;
+        margin: 0px auto;
+    }
+    .flexi_active {
+        border-bottom: 3.5px solid #ec6c6e !important;
+    }
+    #simple{
+        border-top: 2px solid #f8e6e6;
+        padding-top: 16px;
+    }
+    #product_advert{
+        display: block !important;
+        margin-bottom: 100px !important;
+    }
+    #image_left{
+        width: 90% !important;
+        height: 270px !important;
+    }
+    #blue_cloth_1_mobile{
+        position: absolute;
+        height: 220px;
+        margin-top: 9%;
+        background: blue;
+        width: 80%;
+        z-index: -4;
+        border-bottom-right-radius: 123px;
+        left: 0;
+    }
+    #blue_cloth_1{
+        display: none !important;
+    }
+    .info{
+        display: none;
+    }
+    #extension{
+        width: 100% !important;
+    }
+    #browser_box{
+        width: 100% !important;
+        display: block !important;
+    }
+    #browser{
+        width: 70% !important;
+        margin: 0px auto !important;
+        height: 320px !important;
+        margin-bottom: 30px !important;
+    }
+    #browser_icon{
+        height: 90px !important;
+        width: 90px !important;
+        padding-top: 30px;
+    }
+    #head3{
+        font-size: 19px;
+    }
+    #dotted{
+        margin-top: 14px !important;
+        margin-bottom: 16px !important;
+    }
+    #extension{
+        margin-bottom: 30px !important; 
+    }
+    #faq{
+        width: 100% !important;
+    }
+    #question{
+        width: 90%;
+        margin: 0px auto;
+        padding: 21.5px 0px 21.5px 0px !important;
+    }
+    #ask{
+        font-size: 15px !important;
+    }
+    #arrow_down{
+        height: 15px !important;
+        width: 16px !important;
+    }
+    #question_box{
+        border-top: 0px !important;
+    }
+    #count{
+        font-size: 12px !important;
+    }
+    #faq{
+        padding-bottom: 90px !important;
+    }
+    #contact_talk{
+        font-size: 24px !important;
+    }
+    #red{
+        padding: 7% !important;
+        padding-right: 16% !important;
+        padding-left: 16% !important;
+        width: 90% !important;
+    }
+    #contact{
+        padding: 20px !important;
+    }
+    #contact button {
+        margin: 10px !important;
+    }
+    #enter{
+        padding: 21px !important;
+        margin: 5px !important;
+        width: 77% !important;
+    }
+    #bookmark{
+        margin-top: 0px !important;
+        margin: 0px auto;
+        padding-bottom: 15px !important;
+    }
+    #left ul li{
+        margin-bottom: 35px !important;
+        font-size: 15px;
+    }
+    #footing, #left, #left ul, #left ul li{
+        display: block !important;
+        width: 100% !important;
+        padding: 0px !important;
+    }
+    #footing{
+        padding-top: 10% !important;
+        padding-bottom: 10% !important;
+        text-align: center;
+    }
+    #footing a{
+        font-size: 14px !important;
+        letter-spacing: 0.2em;
+    }
+    .social{
+        height: 30px !important;
+        width: 31px !important;
+        margin-right: 15px !important;
+        margin-left: 15px !important;
+    }
+    #right{
+       width: 120px !important;
+       margin-right: auto !important;
+       margin-left: auto !important;
+       margin: 0px auto;
+    }
+    #sample_red{
+        border-bottom: 5px solid #ec6c6e;
+        position: absolute;
+        height: 5px;
+        left: 36%;
+        width: 30%;
+    }
+    .flexi_active{
+        border-bottom: 2px solid #f8e6e6 !important;
+    }
+
+}
+
+body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+#top{
+	display: flex;
+    flex-wrap: wrap;
+    align-items: stretch
+}
+#icon_container{
+    margin-left: 10%;
+}
+#menu{
+    margin-left: auto;
+    margin-right: 6%;
+}
+#icon{
+	background-image: url(images/logo-bookmark.svg);
+    height: 31px;
+    background-size: contain;
+    width: 142px;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+#menu ul{
+	list-style: none;
+	display: flex;
+}
+#menu ul li{
+	font-size: 12px;
+	 padding: 7px 25px 7px 25px;
+}
+#menu ul a{
+	color:#b4b3b9;
+	text-decoration: none;
+}
+#login_text{
+	border: 1px solid red;
+    padding: 7px 25px 7px 25px;
+    border-radius: 5px;
+    background: red;
+    color: white;
+}
+#login_text a{
+	color:white !important;
+}
+#Bell{
+	display: flex;
+	flex-direction: row-reverse;
+    margin-top: 20px;
+}
+#head0{
+	 font-size: 39px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    width: 100%;
+}
+#talk{
+	width: 37%;
+    padding-left: 10%;
+	margin-top: 30px;
+}
+#image_right, #image_left{
+	width: 50%;
+   	height: 450px;
+    background-image: url(images/illustration-hero.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 3%;
+}
+#image_left{
+    margin-left: 2.3%;
+}
+#image_left{
+	background-image: url(images/illustration-features-tab-1.svg);
+	height: 350px;
+}
+#blue_cloth{
+	position: absolute;
+    height: 300px;
+    margin-top: 11%;
+    background: blue;
+    width: 40%;
+    z-index: -4;
+    border-bottom-left-radius: 123px;
+}
+#head2{
+    width: 77%;
+    font-size: 13px;
+    color: #9295a2;
+    line-height: 1.6em;
+}
+#Bar{
+	margin-top: 3%;
+}
+#blue, #red{
+	border: 0;
+    background: #5368df;
+    border-radius: 4px;
+    padding: 12px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: white;
+    margin-top: 3px;
+}
+#red{
+	background: #f2585f;
+    border: 1px solid  #6f7073;
+}
+#grey{
+	border: 0;
+    background: #f2f4f4;
+    border-radius: 4px;
+    padding: 12px;
+    padding-right: 30px;
+    padding-left: 30px;
+    color: black;
+    box-shadow: 1px 2px #d2c8c8;
+    margin-top: 3px;
+}
+#head1{
+	font-size: 21px;
+    font-weight: bold;
+}
+#features #head1, #extension #head1, #faq #head1{
+	text-align: center;
+	margin-bottom: 20px;
+}
+#features, #extension, #faq{
+	padding-top: 50px;
+	width: 40%;
+	margin: 0px auto;
+	text-align: center;
+}
+#features p, #extension p, #faq p{
+	margin: 0px auto;
+}
+#type{
+	margin-top: 30px;
+}
+#types{
+	display: flex;
+    width: 50%;
+    margin: 0px auto;
+}
+.flexi{
+	width: 200px;
+   	border-bottom: 2px solid #f8e6e6;
+    text-align: center;
+}
+.flexi_active{
+	border-bottom: 2px solid #ec6c6e;
+}
+#types #head2{
+	width: auto;
+}
+#product_advert{
+	margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 8%;
+    margin-bottom: 220px;
+}
+#blue_cloth_1{
+	position: absolute;
+    height: 300px;
+    margin-top: 11%;
+    background: blue;
+    width: 40%;
+    z-index: -4;
+    border-bottom-right-radius: 123px;
+    left: 0;
+}
+#browser_box{
+    display: flex;
+    margin: 0px auto;
+    width: 65%;
+}
+#browser #head2{
+	width: auto;
+}
+#browser{
+    margin: 15px;
+    box-shadow: 1px 1px 10px 6px #edeffd;
+    padding: 15px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 23.333333%;
+    height: 60%;
+    border-radius: 18px;
+}
+#browser_icon{
+	height: 60px;
+    width: 62px;
+	margin: 0px auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+.firefox{
+	margin-top: 70px !important;
+}
+.opera{
+	margin-top: 140px !important;
+}
+.chrome_icon{
+	background-image: url(images/logo-chrome.svg);
+}
+.firefox_icon{
+	background-image: url(images/logo-firefox.svg);
+}
+.opera_icon{
+	background-image: url(images/logo-opera.svg);
+}
+#dotted{
+	margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #edeffd;
+    border-style: dashed;
+}
+#browser_box{
+	    margin-bottom: 80px;
+}
+#faq{
+	padding-bottom: 135px;
+}
+#question_box{
+	margin-top: 20px;
+    border-top: 1px solid #edeffd;
+    margin-bottom: 40px;
+}
+#ask{
+	font-size: 13px;
+	width: 98%;
+}
+#question{
+	padding: 11.5px 0px 11.5px 0px;
+    border-bottom: 1px solid #edeffd;;
+    text-align: left;
+    display: flex;
+}
+#arrow_down{
+	height: 10px;
+    width: 10px;
+    background-image: url(images/icon-arrow.svg);
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+#contact{
+	background: #5368df;
+    padding: 50px;
+    text-align: center;
+}
+#count{
+	font-weight: bold;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 11px;
+    padding: 15px;
+}
+#contact_talk{
+	font-size: 22px;
+    margin: 0px auto;
+    color: white;
+    line-height: 1.4em;
+}
+#enter{
+    padding: 10px;
+    margin: 5px;
+    width: 230px;
+    border-radius: 5px;
+    border: 1px solid #d4d5db;
+}
+#contact button{
+    margin: 5px;
+}
+#input_box{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#footing{
+    background: #242946;
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#footing #left{
+    display: flex;
+}
+#footing #left ul{
+    display: flex;
+}
+#footing #left ul li{
+    list-style: none;
+    width: 110px;
+}
+#footing ul{
+    margin: 0px;
+    margin-top: 20px;
+}
+#footing a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+#bookmark{
+    background-image: url(images/logo-bookmark1.svg);
+    height: 31px;
+    background-size: contain;
+    width: 142px;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+#facebook{
+     background-image: url('images/icon-facebook.svg');
+}
+#left{
+}
+#right{
+    display: flex;
+    margin-top: 15px;
+    margin-right: 8%;
+    margin-left: auto;
+}
+#twitter{
+    background-image: url('images/icon-twitter.svg');
+}
+.social{
+    height: 18px;
+    width: 18px;
+    margin: 5px;
+    margin-right: 25px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#talk #blue{
+    margin-right: 10px;
+}
+ #mobile_buttons{
+    display: none;
+ }
+ .b_mob, .g_mob{
+    width: 30%;
+    font-size: 11px;
+ }
