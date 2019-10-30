@@ -533,7 +533,8 @@ body{
     padding: 15px;
 }
 #contact_talk{
-	font-size: 22px;
+    font-family: 'Aladin', cursive;
+	font-size: 30px;
     margin: 0px auto;
     color: white;
     line-height: 1.4em;
