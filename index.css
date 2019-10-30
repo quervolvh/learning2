@@ -237,12 +237,14 @@
        margin: 0px auto;
     }
     #sample_red{
-        border-bottom: 5px solid #ec6c6e;
         position: absolute;
         height: 5px;
         left: 36%;
         width: 30%;
     }
+    .sample_active{
+        border-bottom: 5px solid #ec6c6e;
+    }    
     .flexi_active{
         border-bottom: 2px solid #f8e6e6 !important;
     }
@@ -251,7 +253,7 @@
 
 body{
 	margin: 0px;
-	font-family: sans-serif;
+	font-family: 'Noto Sans JP', sans-serif;
 }
 #top{
 	display: flex;
@@ -301,7 +303,8 @@ body{
     margin-top: 20px;
 }
 #head0{
-	 font-size: 39px;
+    font-family: 'Aladin', cursive;
+	font-size: 50px;
     font-weight: bold;
     margin-bottom: 0px;
     width: 100%;
@@ -341,6 +344,10 @@ body{
     color: #9295a2;
     line-height: 1.6em;
 }
+#head3{
+    font-family: 'Aladin', cursive;
+    font-size: 19px;
+}
 #Bar{
 	margin-top: 3%;
 }
@@ -370,20 +377,21 @@ body{
     margin-top: 3px;
 }
 #head1{
-	font-size: 21px;
+    font-family: 'Aladin', cursive;
+	font-size: 30px;
     font-weight: bold;
 }
 #features #head1, #extension #head1, #faq #head1{
 	text-align: center;
 	margin-bottom: 20px;
 }
-#features, #extension, #faq{
+#features, #extension, #faq, #pricing{
 	padding-top: 50px;
 	width: 40%;
 	margin: 0px auto;
 	text-align: center;
 }
-#features p, #extension p, #faq p{
+#features p, #extension p, #faq p, #pricing p{
 	margin: 0px auto;
 }
 #type{
@@ -491,6 +499,17 @@ body{
     text-align: left;
     display: flex;
 }
+.hidden_answer{
+    width: 95%;
+    margin: 0px auto;
+    color: #989ba7;
+    padding: 11.5px 0px 11.5px 0px;
+    border-bottom: 1px solid #edeffd;;
+    text-align: left;
+}
+.rotation{
+    transform: rotate(183deg);
+}
 #arrow_down{
 	height: 10px;
     width: 10px;
@@ -499,6 +518,7 @@ body{
     background-position: right;
     background-repeat: no-repeat;
     margin-right: 20px;
+    transition: ease 0.5s;
 }
 #contact{
 	background: #5368df;
@@ -513,7 +533,8 @@ body{
     padding: 15px;
 }
 #contact_talk{
-	font-size: 22px;
+    font-family: 'Aladin', cursive;
+	font-size: 30px;
     margin: 0px auto;
     color: white;
     line-height: 1.4em;
@@ -597,3 +618,15 @@ body{
     width: 30%;
     font-size: 11px;
  }
+ a{
+    cursor: pointer;
+ }
+.silver{
+    background-image: url('images/silver.svg');
+}
+.gold{
+    background-image: url('images/gold.svg');
+}
+.platinum{
+    background-image: url('images/platinum.svg');
+}
